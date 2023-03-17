@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    color:crimson;
+    text-align: center;
+    background-color:lightblue;
+    /* background-color: rgba(27, 228, 228, 0.885); */
+    padding: 1em;
+    text-decoration: 1.5px double underline red;
+    font-size: 4em;
+}
